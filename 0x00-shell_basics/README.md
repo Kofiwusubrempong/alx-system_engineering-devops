@@ -5,3 +5,4 @@ Task 3 3-listfiles- This script is used to list files in a long format
 Task 4 Display current directory contents, including hidden files (starting with .in long format
 Task 5 this script is used to list files in long format, print user and group ids and display hidden files in long format
 Task 6 This script is used to to create a directory in another directory
+Task 7 This script is used to move a file from one directory to another

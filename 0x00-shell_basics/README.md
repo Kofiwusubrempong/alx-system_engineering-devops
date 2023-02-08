@@ -10,3 +10,4 @@ Task 8 this script is used to delete a file in a folder
 Task 9 This script is used to delete a directory
 Task 10 This script is used to change the directory to the previous one
 Task 11 This script is used to list files with a period/hidden in working directory,parent directory and /boot directory
+Task 12 This script is used to display a file type

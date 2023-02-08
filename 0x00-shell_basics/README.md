@@ -12,3 +12,4 @@ Task 10 This script is used to change the directory to the previous one
 Task 11 This script is used to list files with a period/hidden in working directory,parent directory and /boot directory
 Task 12 This script is used to display a file type
 Task 13 This script is used to create a symbolic link
+Task 14 This script is used to copy .html files in a working directory

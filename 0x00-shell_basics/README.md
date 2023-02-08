@@ -7,3 +7,4 @@ Task 5 this script is used to list files in long format, print user and group id
 Task 6 This script is used to to create a directory in another directory
 Task 7 This script is used to move a file from one directory to another
 Task 8 this script is used to delete a file in a folder
+Task 9 This script is used to delete a directory

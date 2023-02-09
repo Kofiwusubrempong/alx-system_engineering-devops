@@ -7,3 +7,4 @@ Task 5 This script is used to add executable permission to a file
 Task6 This script is used to give permission to multiple files
 Task 7 This script is used to add executable permission to all users
 Task 8 This is used to add all permissions to other users and take all permissions from group and owner
+Task 9 This script is used to grant all permissions to owner, execute and read to groups and write and execute to others

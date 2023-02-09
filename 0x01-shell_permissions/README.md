@@ -4,3 +4,4 @@ Task 3 This script is used to see all the groups a user is part of
 Task 4 This script is used to change ownership of a file
 Task 5 This script is used to create an empty file
 Task 6 This script is used to add executable permission to a file
+Task7 This script is used to give permission to multiple files
